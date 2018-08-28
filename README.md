@@ -1,5 +1,9 @@
+<html>
+  <body>
+<pre>
 Installing Cordova
 Cordova command-line runs on Node.js(https://nodejs.org/en/download/) and is available on NPM. Follow platform specific guides to install additional platform dependencies. Open a command prompt or Terminal, and type npm install -g cordova.
+
 
 $ npm install -g cordova npm install -g cordova
 2 Create a project
@@ -31,3 +35,6 @@ $ cordova run <platform name>.
 
 ex: 
 $cordova run android            // run the app on android platform. 
+<pre>
+</body>
+</html>
